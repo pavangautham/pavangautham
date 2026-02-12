@@ -78,8 +78,8 @@ Shared insights on AI-assisted migration, real-world challenges, and lessons lea
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/pavan-n-0a498616/)
-- 📧 Email: (pavan.gautham17@gmail.com)
+- 💼 LinkedIn: https://linkedin.com/in/pavan-n-0a498616/
+- 📧 Email: pavan.gautham17@gmail.com
 
 ---
 
