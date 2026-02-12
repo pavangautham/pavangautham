@@ -18,14 +18,24 @@
 
 ## 🚀 Tech Stack
 
-### 🖥 Frontend
+### Frontend Architecture
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-Framework-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-App%20Framework-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Utility%20First-38B2AC?style=for-the-badge&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strongly%20Typed-black?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-Component%20Architecture-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-Production%20Framework-black?style=for-the-badge&logo=next.js)
+
+### UI & Styling Systems
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Design%20System-black?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-black?style=for-the-badge&logo=css3)
+
+### Engineering & Tooling
+
+![Git](https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git)
+![REST API](https://img.shields.io/badge/REST-API%20Integration-black?style=for-the-badge&logo=fastapi)
+![AI Workflows](https://img.shields.io/badge/AI-Agentic%20Workflows-black?style=for-the-badge)
 
 ---
 
