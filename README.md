@@ -60,14 +60,6 @@ Shared insights on AI-assisted migration, real-world challenges, and lessons lea
 
 ---
 
-## 📊 GitHub Overview
-
-![Profile Views](https://komarev.com/ghpvc/?username=pavangautham&color=blue)
-
-![GitHub Stats](https://img.shields.io/badge/Contributions-Active-brightgreen)
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/pavan-n-0a498616/
