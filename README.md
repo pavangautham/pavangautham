@@ -60,19 +60,11 @@ Shared insights on AI-assisted migration, real-world challenges, and lessons lea
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavangautham&show_icons=true&theme=tokyonight" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=pavangautham&color=blue)
 
----
-
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavangautham&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://img.shields.io/badge/Contributions-Active-brightgreen)
 
 ---
 
