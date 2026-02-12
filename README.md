@@ -60,11 +60,10 @@ Shared insights on AI-assisted migration, real-world challenges, and lessons lea
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavangautham&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavangautham&theme=tokyonight" />
 </p>
 
 ---
